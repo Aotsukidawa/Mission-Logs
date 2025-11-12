@@ -1,7 +1,6 @@
-July 1969. A small crew embarked on a journey beyond the familiar, leaving Earth behind to reach the desolate expanse of the Moon. Their mission was historic, their steps cautious, and their path uncharted.
+# Mission Logs
 
-Now, echoes of that voyage linger. Across these digital plains, remnants of a journey await — files, commits, and hidden layers that mirror the careful navigation of lunar terrain. Observation is critical. Curiosity will light the way.
+Just a small repo where I’ve been collecting some stuff related to different space missions.  
+Mainly audio clips, notes, and a few test scripts I was playing around with.  
 
-Trace the paths carefully. Every artifact may hold a fragment of the story, concealed like dust in the lunar regolith. The challenge is not in brute force, but in careful exploration, attention to detail, and the patience to piece together what was left behind.
-
-The Moon is silent, but its legacy whispers to those who look closely.
+Nothing fancy — just wanted to keep everything in one place.
